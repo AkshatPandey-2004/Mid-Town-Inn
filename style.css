@@ -54,7 +54,7 @@
 }
 
 .nav-list li a:hover {
-    color: rgb(179, 28, 28);
+    color: rgb(72, 72, 72);
 
 }
 
@@ -68,7 +68,8 @@
 }
 
 .rightnav button {
-    padding: 5px;
+    margin-right: 23px;
+    padding: 10px;
     height: 45px;
     border-radius: 10px;
 }
@@ -210,15 +211,18 @@ h1 {
 }
 
 .heading h2 {
-    margin: 30px 0;
+    margin: 21px 19px;
     font-size: 45px;
     font-family: serif;
     font-weight: 400;
 }
 
 .about .heading h1 {
-    top: 55px;
+    top: 23px;
 
+}
+.about top{
+    background-color: rgb(196, 204, 208);;
 }
 
 .about {
@@ -382,6 +386,8 @@ a:hover{
 
 .inner-container{
     margin-top: 2rem;
+    gap: 20px;
+    column-gap: 23px;
     display: flex;
     justify-content: center;
     align-items: center;
