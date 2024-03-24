@@ -413,7 +413,7 @@ a:hover{
 .inner-data{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    margin-left: 162px;
     align-items: center;
     font-size: 20px;
 
